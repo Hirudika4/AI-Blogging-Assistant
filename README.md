@@ -22,7 +22,8 @@ Here're some of the project's best features:
 <p>1. Clone the repository:</p>
 
 ```
-git clone https://github.com/Hirudika4/ai-blogging-assistant.git cd ai-blogging-assistant
+git clone https://github.com/Hirudika4/ai-blogging-assistant.git
+cd ai-blogging-assistant
 ```
 
 <p>2. Install dependencies:</p>
